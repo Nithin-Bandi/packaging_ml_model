@@ -6,9 +6,15 @@
 - It is a classification problem where we have to predict whether a loan would be approved or not.
 
 
-# Table Contents
+## Table of Contents
 
-1. [DirectoryStructure](#Build the Package)
+1. [Data](#data)
+2. [Running Locally](#running-locally)
+3. [Virtual Environment](#virtual-environment)
+4. [Directory Structure](#directory-structure)
+5. [Build the Package](#build-the-package)
+6. [Installation of Package](#installation-of-package)
+7. [Testing the Package Working](#testing-the-package-working)
 
 #### Data
 The data corresponds to a set of financial requests associated with individuals. 
