@@ -3,7 +3,11 @@
 
 #### Problem Statement
 - Company wants to automate the loan eligibility process based on customer detail provided while filling online application form. 
-- It is a classification problem where we have to predict whether a loan would be approved or not. 
+- It is a classification problem where we have to predict whether a loan would be approved or not.
+
+
+#Table Contents
+[Directory Structure](#Directory structure)
 
 #### Data
 The data corresponds to a set of financial requests associated with individuals. 
