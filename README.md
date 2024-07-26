@@ -147,7 +147,7 @@ pip install .
 3. Also can be installed from git as well after pushing to github
 
 ```
-pip install git+https://github.com/manifoldailearning/prediction_model.git
+pip install git+https://github.com/Nithin-Bandi/packaging_ml_model
 ```
 
 # Testing the Package Working
