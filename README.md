@@ -8,7 +8,7 @@
 
 # Table Contents
 
-[Directory Structure](#Directory structure)
+1. [DirectoryStructure](#Build the Package)
 
 #### Data
 The data corresponds to a set of financial requests associated with individuals. 
